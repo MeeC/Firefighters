@@ -1,0 +1,8 @@
+To programma graftike me xrisi to Dev C++ se leitourgiko Windows 7.
+
+Gia na treksete to programma apla anoikste to arxeio firefighters.dev ston fakelo source.
+Mesa apo to Dev C++ kanoume rebuild all kai sti synexeia run.
+To programma ksekinaei me default times gia megethos xarti, oximata kai fwties.
+
+Simeiwsi: Epeidi se kathe xroniki stigmi (pou krataei 400ms) emfanizetai stin consola mia anaparastasi tou kosmou
+proteinetai to terminal na rithmistei se megalitero megethos apo to default twn windows.
